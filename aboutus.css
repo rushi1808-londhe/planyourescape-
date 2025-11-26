@@ -1,0 +1,22 @@
+.about {
+    background: url('images/kep1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+  }
+  .stats {
+    background: linear-gradient(90deg, #007bff, #00bcd4);
+  }
+  .team-member img {
+    object-fit: cover;
+  }
+  .team-member:hover {
+    transform: translateY(-5px);
+    transition: 0.3s ease;
+  }
+  .values .shadow-sm:hover {
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+  }
+  

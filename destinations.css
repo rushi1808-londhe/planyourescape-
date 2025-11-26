@@ -1,0 +1,110 @@
+.destination-img{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(images/goi.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+.destination-img>h1{
+    
+    padding-top: 200px;
+    font-weight: 500;
+}
+
+.kashmir-sec{
+    font-family: Microma;
+    background-image: url(images/assest1.webp);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    font-family: Microma;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.rajasthan-sec{
+    font-family: Microma;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/assest2.jpeg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.kerela-sec{
+    font-family: Microma;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/assest3.webp);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.lehladakh-sec{
+    font-family: Microma;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/assest4.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.goa-sec{
+    font-family: Microma;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/assest5.png);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;  
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.andaman-sec{
+    font-family: Microma;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(images/assest6.webp);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+
+@font-face {
+    font-family: Microma;
+    src: url(Font/Michroma-Regular.ttf);
+}

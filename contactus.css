@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana;
+}
+.contactus-img{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 600px;
+    width: 100%;
+    background-image: url(images/redfort.jpg);
+    background-size: cover;
+}
+.contactus-img>h1{
+    padding-top: 200px;
+    font-weight: 500;
+}
+#left{
+    padding: 50px;
+    width: 600px;
+}
+#right{
+    padding: 50px;
+    width: 600px;
+}
+.form>h1{
+    font-family: 'Courier New';
+    font-style: italic;
+    font-weight: 900;
+}
+input{
+    margin-bottom: 15px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    
+}
+label{
+    font-weight: 300;
+    font-style: italic;
+    margin-bottom: 5px;
+    font-family: 'Lucida Grande',;
+}
+textarea{
+    width: 400px;
+    height: 150px;
+}
+#right>h1{
+    font-family: 'Courier New';
+    font-style: italic;
+}
+.social>h1{
+    font-family: 'Courier New';
+    font-style: italic;
+}
+input:focus,
+textarea:focus,
+select:focus {
+    outline: none;        /* Removes the default blue outline */
+    box-shadow: none;     /* Removes any default shadow if applied */
+}
